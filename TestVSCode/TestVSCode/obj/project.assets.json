@@ -12539,12 +12539,15 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
-      "projectUniqueName": "d:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\TestVSCode.csproj",
+      "projectUniqueName": "D:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\TestVSCode.csproj",
       "projectName": "TestVSCode",
-      "projectPath": "d:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\TestVSCode.csproj",
+      "projectPath": "D:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\TestVSCode.csproj",
       "packagesPath": "C:\\Users\\PCC\\.nuget\\packages\\",
-      "outputPath": "d:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\obj\\",
+      "outputPath": "D:\\E\\NetcoreProgram\\ProgramWeb\\TestVSCode\\TestVSCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
