@@ -21,7 +21,7 @@ namespace TestVSCode
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            //mvc 中间件.管道模式
+            //mvc 中间件.管道模式,添加
             services.AddMvc();
         }
 
