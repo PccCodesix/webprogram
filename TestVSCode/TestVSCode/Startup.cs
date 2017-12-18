@@ -37,6 +37,7 @@ namespace TestVSCode
                 app.UseExceptionHandler("/Error");
             }
 
+            
             app.UseStaticFiles();
             
             app.UseMvc(routes =>
