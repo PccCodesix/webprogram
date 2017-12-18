@@ -1,0 +1,10 @@
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\bin\Debug\netcoreapp2.0\TestVSCode.deps.json
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\bin\Debug\netcoreapp2.0\TestVSCode.runtimeconfig.json
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\bin\Debug\netcoreapp2.0\TestVSCode.runtimeconfig.dev.json
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\bin\Debug\netcoreapp2.0\TestVSCode.dll
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\bin\Debug\netcoreapp2.0\TestVSCode.pdb
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.csproj.CoreCompileInputs.cache
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.AssemblyInfoInputs.cache
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.AssemblyInfo.cs
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.dll
+d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.pdb
