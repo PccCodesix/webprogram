@@ -8,3 +8,4 @@ d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\Tes
 d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.AssemblyInfo.cs
 d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.dll
 d:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.pdb
+D:\E\NetcoreProgram\ProgramWeb\TestVSCode\TestVSCode\obj\Debug\netcoreapp2.0\TestVSCode.csprojResolveAssemblyReference.cache
